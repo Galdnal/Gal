@@ -1,1 +1,33 @@
-# Gal
+# Olá! Bem-vindo ao meu perfil, Me Chamo Richard Tramontin Pereira 
+Sou um estudante apaixonado por tecnologia e desenvolvimento de software.
+
+## 📚 Sobre mim
+- 🎓 Estudante de Ciência da Computação
+- 💻 Entusiasta de programação e desenvolvimento web
+- 🌱 Sempre aprendendo novas tecnologias e melhores práticas
+- 🎯 Em busca de oportunidades para crescer profissionalmente
+## 🛠️ Tecnologias e Ferramentas
+Linguagens:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,git)
+
+Ferramentas:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vuejs,vscode,pycharm,canva,github,eslint,nextjs,react,discordjs,obsidian)
+
+Navegadores e Sistemas Operacionais:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firefox,ubuntu,windows,opera,linux,mint)
+
+Comunicação e compartilhamento:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,discord,instagram,linkedin,gmail,reddit)
+
+## 📂 Projetos em Destaque
+Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais que demonstram minhas habilidades em desenvolvimento.
+
+## 📫 Entre em Contato
+LinkedIn: [Richard Tramontin Pereira](www.linkedin.com/in/richard-tramontin-11b758411)
+
+Instagram: [Gal](https://www.instagram.com/galkkj/)
+
